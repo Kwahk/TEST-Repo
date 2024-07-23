@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
